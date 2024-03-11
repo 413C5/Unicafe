@@ -3,12 +3,16 @@
 Unicafe is a feedback app featuring three options: good, neutral, and bad, where users express their opinions through buttons. The application provides key statistics like total comments, average score, and the percentage of positive feedback.
 
 # Try out this app:
+
 You can experience the app by clicking [this link](https://unicafe.onrender.com).
 
 # Project Details:
+
 This project is part of the [fsopen2023](https://github.com/413C5/fsopen2023/tree/main/part1/unicafe) repository, specifically located in the unicafe directory. The creation of the standalone "unicafe" repository is specifically for hosting on render.com.
 
 Feel free to explore the [fsopen2023](https://github.com/413C5/fsopen2023) repository to understand its broader context and discover related projects.
+
+
 
 # Getting Started with Create React App
 
